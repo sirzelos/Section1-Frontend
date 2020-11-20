@@ -1,0 +1,40 @@
+.navbar {
+    min-height: 80px;
+  }
+  
+  .navbar-brand {
+    padding: 0 15px;
+    height: 80px;
+    line-height: 80px;
+  }
+  
+  .navbar-toggle {
+    margin-top: 23px;
+    padding: 9px 10px !important;
+  }
+  
+  @media (min-width: 768px) {
+    .navbar-nav > li > a {
+      padding-top: 40px;
+      padding-bottom: 40px;
+      line-height: 27px;
+    }
+  }
+  .brand{
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+  }
+  .p1-brand{
+    display: inline;
+    color: #808080;
+  }
+  .p2-brand{
+    display: inline;
+    color:   #FFD700;
+    font-weight: bold;
+  }
+  li{
+    font-weight: bold;
+    padding-left: 25px;
+  }
+
